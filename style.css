@@ -1,0 +1,20 @@
+body{
+    background-color: lightblue;
+}
+
+#pontuação{
+    font-size: 20;
+    margin-left: 5px;
+    color: lightpink;
+}
+
+#tempo{
+    font-size: 20;
+    float: right;
+    margin-right:5px ;
+    color: plum;
+}
+
+#desenhado{
+    color: rgb(40, 24, 132);
+}
